@@ -1,0 +1,1 @@
+[main/sessions/main/0d7af5c5-0000-4a6e-8ffe-4e080574fa82#L12] Assistant: ¡Hola! Sí, estoy funcionando perfectamente. Soy tu agente en OpenClaw, corriendo en el gateway `bc-vps-459` con DeepSeek V4 Flash. ¿En qué puedo ayudarte?
