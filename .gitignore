@@ -1,0 +1,20 @@
+# Archivos de memoria sensible y datos personales del usuario
+MEMORY.md
+memory/
+USER.md
+
+# Archivos temporales, respaldos y copias de edición
+*.bak
+*.tmp
+*.log
+.DS_Store
+
+# Entornos virtuales o dependencias que puedas generar en tus skills
+node_modules/
+venv/
+.env
+__pycache__/
+
+# Claves o secretos que por error se hayan creado en el workspace
+*.json
+!skills/**/package.json
